@@ -1,0 +1,94 @@
+﻿Bank,Account,Type,age,Deposit_ammount,Gift,Mobile_banking,Profit_rupees
+Peoples Bank,Isuru Udana,Children,1,1100,Yes,No,11
+Peoples Bank,Isuru Udana,Children,2,1500,Yes,No,15
+Peoples Bank,Isuru Udana,Children,3,500,Yes,No,5
+Peoples Bank,Isuru Udana,Children,5,1280,Yes,No,12.8
+Peoples Bank,Isuru Udana,Children,2,5400,Yes,No,54
+Peoples Bank,Isuru Udana,Children,1,10000,Yes,No,100
+Peoples Bank,Isuru Udana,Children,3,12800,Yes,No,128
+Peoples Bank,Isuru Udana,Children,1,43000,Yes,No,430
+Peoples Bank,Isuru Udana,Children,4,28000,Yes,No,280
+Peoples Bank,Isuru Udana,Children,2,3200,Yes,No,32
+Peoples Bank,Isuru Udana,Children,5,7600,Yes,No,76
+Peoples Bank,Isuru Udana,Children,1,100,Yes,No,1
+Peoples Bank,Isuru Udana,Children,1,350,Yes,No,3.5
+Peoples Bank,Isuru Udana,Children,1,700,Yes,No,7
+Peoples Bank,Sisu Udana,Children,6,10000,Yes,No,200
+Peoples Bank,Sisu Udana,Children,8,25000,Yes,No,500
+Peoples Bank,Sisu Udana,Children,9,250,Yes,No,5
+Peoples Bank,Sisu Udana,Children,11,480,Yes,No,9.6
+Peoples Bank,Sisu Udana,Children,13,800,Yes,No,16
+Peoples Bank,Sisu Udana,Children,12,36000,Yes,No,720
+Peoples Bank,Sisu Udana,Children,7,12400,Yes,No,248
+Peoples Bank,Sisu Udana,Children,9,55600,Yes,No,1112
+Peoples Bank,Sisu Udana,Children,15,84000,Yes,No,1680
+Peoples Bank,Sisu Udana,Children,18,4100,Yes,No,82
+Peoples Bank,Sisu Udana,Children,17,3200,Yes,No,64
+Peoples Bank,Sisu Udana,Children,10,78000,Yes,No,1560
+Peoples Bank,Sisu Udana,Children,14,9600,Yes,No,192
+Commercial Bank,Arunalu,Children,4,400,No,No,16
+Commercial Bank,Arunalu,Children,2,6000,No,No,240
+Commercial Bank,Arunalu,Children,6,24000,No,No,960
+Commercial Bank,Arunalu,Children,7,300,No,No,12
+Commercial Bank,Arunalu,Children,9,17900,No,No,716
+Commercial Bank,Arunalu,Children,13,250,No,No,10
+Commercial Bank,Arunalu,Children,4,5200,No,No,208
+Commercial Bank,Arunalu,Children,16,36000,No,No,1440
+Commercial Bank,Arunalu,Children,1,7500,No,No,300
+Commercial Bank,Arunalu,Children,17,65000,No,No,2600
+Commercial Bank,Arunalu,Children,3,2400,No,No,96
+Commercial Bank,Arunalu,Children,5,18500,No,No,740
+Commercial Bank,Arunalu,Children,16,3500,No,No,140
+Commercial Bank,Arunalu,Children,10,680,No,No,27.2
+Commercial Bank,Arunalu,Children,9,1000,No,No,40
+Sampth Bank,Pubudu,Children,5,5000,Yes,No,200
+Sampth Bank,Pubudu,Children,3,11300,Yes,No,502
+Sampth Bank,Pubudu,Children,1,24000,Yes,No,960
+Sampth Bank,Pubudu,Children,6,500,Yes,No,20
+Sampth Bank,Pubudu,Children,18,850,Yes,No,34
+Sampth Bank,Pubudu,Children,12,34000,Yes,No,1360
+Sampth Bank,Pubudu,Children,4,1200,Yes,No,48
+Sampth Bank,Pubudu,Children,6,75000,Yes,No,3000
+Sampth Bank,Pubudu,Children,12,600,Yes,No,24
+Sampth Bank,Pubudu,Children,11,1500,Yes,No,60
+Sampth Bank,Pubudu,Children,6,3900,Yes,No,156
+Sampth Bank,Pubudu,Children,1,6500,Yes,No,260
+Sampth Bank,Sapiri,Children,3,600,No,No,30
+Sampth Bank,Sapiri,Children,5,900,No,No,45
+Sampth Bank,Sapiri,Children,6,1200,No,No,60
+Sampth Bank,Sapiri,Children,1,45000,No,No,2250
+Sampth Bank,Sapiri,Children,8,2300,No,No,115
+Sampth Bank,Sapiri,Children,1,7600,No,No,380
+Sampth Bank,Sapiri,Children,2,5000,No,No,250
+Sampth Bank,Sapiri,Children,11,87000,No,No,4350
+Sampth Bank,Sapiri,Children,7,3400,No,No,170
+Sampth Bank,Sapiri,Children,13,1200,No,No,60
+Sampth Bank,Sapiri,Children,9,5600,No,No,280
+Sampth Bank,Sapiri,Children,10,44000,No,No,2200
+BOC,Ran kekulu,Children,5,700,Yes,Yes,10.5
+BOC,Ran kekulu,Children,18,20000,Yes,Yes,300
+BOC,Ran kekulu,Children,12,1000,Yes,Yes,15
+BOC,Ran kekulu,Children,3,4000,Yes,Yes,60
+BOC,Ran kekulu,Children,16,35000,Yes,Yes,525
+BOC,Ran kekulu,Children,4,2300,Yes,Yes,34.5
+BOC,Ran kekulu,Children,7,900,Yes,Yes,13.5
+BOC,Ran kekulu,Children,8,1400,Yes,Yes,21
+BOC,Ran kekulu,Children,10,50000,Yes,Yes,750
+BOC,Ran kekulu,Children,2,22000,Yes,Yes,330
+BOC,Ran kekulu,Children,11,3200,Yes,Yes,48
+BOC,Ran kekulu,Children,15,8400,Yes,Yes,126
+BOC,Ran kekulu,Children,5,7200,Yes,Yes,108
+NDB,Shilpa,Children,2,500,Yes,No,15
+NDB,Shilpa,Children,1,1200,Yes,No,36
+NDB,Shilpa,Children,3,700,Yes,No,21
+NDB,Shilpa,Children,5,2500,Yes,No,75
+NDB,Shilpa,Children,7,900,Yes,No,18
+NDB,Shilpa,Children,17,65000,Yes,No,1950
+NDB,Shilpa,Children,14,3400,Yes,No,112
+NDB,Shilpa,Children,3,2100,Yes,No,63
+NDB,Shilpa,Children,12,43000,Yes,No,1290
+NDB,Shilpa,Children,11,3800,Yes,No,108
+NDB,Shilpa,Children,5,1100,Yes,No,33
+NDB,Shilpa,Children,18,5000,Yes,No,150
+NDB,Shilpa,Children,4,9000,Yes,No,270
+NDB,Shilpa,Children,13,10000,Yes,No,300
