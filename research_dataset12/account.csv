@@ -1,0 +1,294 @@
+﻿Bank,Account,Type,age,Deposit_ammount,Gift,Rate,Special_benefits,Mobile_banking,Profit_rupees
+Peoples Bank,Isuru Udana,Children,1,1100,Yes,1,Yes,No,11
+Peoples Bank,Isuru Udana,Children,2,1500,Yes,1,Yes,No,15
+Peoples Bank,Isuru Udana,Children,3,500,Yes,1,Yes,No,5
+Peoples Bank,Isuru Udana,Children,5,1280,Yes,1,Yes,No,12.8
+Peoples Bank,Isuru Udana,Children,2,5400,Yes,1,Yes,No,54
+Peoples Bank,Isuru Udana,Children,1,10000,Yes,1,Yes,No,100
+Peoples Bank,Isuru Udana,Children,3,12800,Yes,1,Yes,No,128
+Peoples Bank,Isuru Udana,Children,1,43000,Yes,1,Yes,No,430
+Peoples Bank,Isuru Udana,Children,4,28000,Yes,1,Yes,No,280
+Peoples Bank,Isuru Udana,Children,2,3200,Yes,1,Yes,No,32
+Peoples Bank,Isuru Udana,Children,5,7600,Yes,1,Yes,No,76
+Peoples Bank,Isuru Udana,Children,1,100,Yes,1,Yes,No,1
+Peoples Bank,Isuru Udana,Children,1,350,Yes,1,Yes,No,3.5
+Peoples Bank,Isuru Udana,Children,1,700,Yes,1,Yes,No,7
+Peoples Bank,Sisu Udana,Children,6,10000,Yes,2,Yes,No,200
+Peoples Bank,Sisu Udana,Children,8,25000,Yes,2,Yes,No,500
+Peoples Bank,Sisu Udana,Children,9,250,Yes,2,Yes,No,5
+Peoples Bank,Sisu Udana,Children,11,480,Yes,2,Yes,No,9.6
+Peoples Bank,Sisu Udana,Children,13,800,Yes,2,Yes,No,16
+Peoples Bank,Sisu Udana,Children,12,36000,Yes,2,Yes,No,720
+Peoples Bank,Sisu Udana,Children,7,12400,Yes,2,Yes,No,248
+Peoples Bank,Sisu Udana,Children,9,55600,Yes,2,Yes,No,1112
+Peoples Bank,Sisu Udana,Children,15,84000,Yes,2,Yes,No,1680
+Peoples Bank,Sisu Udana,Children,18,4100,Yes,2,Yes,No,82
+Peoples Bank,Sisu Udana,Children,17,3200,Yes,2,Yes,No,64
+Peoples Bank,Sisu Udana,Children,10,78000,Yes,2,Yes,No,1560
+Peoples Bank,Sisu Udana,Children,14,9600,Yes,2,Yes,No,192
+Commercial Bank,Arunalu,Children,4,400,No,4,Yes,No,16
+Commercial Bank,Arunalu,Children,2,6000,No,4,Yes,No,240
+Commercial Bank,Arunalu,Children,6,24000,No,4,Yes,No,960
+Commercial Bank,Arunalu,Children,7,300,No,4,Yes,No,12
+Commercial Bank,Arunalu,Children,9,17900,No,4,Yes,No,716
+Commercial Bank,Arunalu,Children,13,250,No,4,Yes,No,10
+Commercial Bank,Arunalu,Children,4,5200,No,4,Yes,No,208
+Commercial Bank,Arunalu,Children,16,36000,No,4,Yes,No,1440
+Commercial Bank,Arunalu,Children,1,7500,No,4,Yes,No,300
+Commercial Bank,Arunalu,Children,17,65000,No,4,Yes,No,2600
+Commercial Bank,Arunalu,Children,3,2400,No,4,Yes,No,96
+Commercial Bank,Arunalu,Children,5,18500,No,4,Yes,No,740
+Commercial Bank,Arunalu,Children,16,3500,No,4,Yes,No,140
+Commercial Bank,Arunalu,Children,10,680,No,4,Yes,No,27.2
+Commercial Bank,Arunalu,Children,9,1000,No,4,Yes,No,40
+Sampath Bank,Pubudu,Children,5,5000,Yes,4,No,No,200
+Sampath Bank,Pubudu,Children,3,11300,Yes,4,No,No,502
+Sampath Bank,Pubudu,Children,1,24000,Yes,4,No,No,960
+Sampath Bank,Pubudu,Children,6,500,Yes,4,No,No,20
+Sampath Bank,Pubudu,Children,18,850,Yes,4,No,No,34
+Sampath Bank,Pubudu,Children,12,34000,Yes,4,No,No,1360
+Sampath Bank,Pubudu,Children,4,1200,Yes,4,No,No,48
+Sampath Bank,Pubudu,Children,6,75000,Yes,4,No,No,3000
+Sampath Bank,Pubudu,Children,12,600,Yes,4,No,No,24
+Sampath Bank,Pubudu,Children,11,1500,Yes,4,No,No,60
+Sampath Bank,Pubudu,Children,6,3900,Yes,4,No,No,156
+Sampath Bank,Pubudu,Children,1,6500,Yes,4,No,No,260
+Sampath Bank,Sapiri,Children,3,600,No,5,No,No,30
+Sampath Bank,Sapiri,Children,5,900,No,5,No,No,45
+Sampath Bank,Sapiri,Children,6,1200,No,5,No,No,60
+Sampath Bank,Sapiri,Children,1,45000,No,5,No,No,2250
+Sampath Bank,Sapiri,Children,8,2300,No,5,No,No,115
+Sampath Bank,Sapiri,Children,1,7600,No,5,No,No,380
+Sampath Bank,Sapiri,Children,2,5000,No,5,No,No,250
+Sampath Bank,Sapiri,Children,11,87000,No,5,No,No,4350
+Sampath Bank,Sapiri,Children,7,3400,No,5,No,No,170
+Sampath Bank,Sapiri,Children,13,1200,No,5,No,No,60
+Sampath Bank,Sapiri,Children,9,5600,No,5,No,No,280
+Sampath Bank,Sapiri,Children,10,44000,No,5,No,No,2200
+BOC,Ran kekulu,Children,5,700,Yes,1.5,Yes,Yes,10.5
+BOC,Ran kekulu,Children,18,20000,Yes,1.5,Yes,Yes,300
+BOC,Ran kekulu,Children,12,1000,Yes,1.5,Yes,Yes,15
+BOC,Ran kekulu,Children,3,4000,Yes,1.5,Yes,Yes,60
+BOC,Ran kekulu,Children,16,35000,Yes,1.5,Yes,Yes,525
+BOC,Ran kekulu,Children,4,2300,Yes,1.5,Yes,Yes,34.5
+BOC,Ran kekulu,Children,7,900,Yes,1.5,Yes,Yes,13.5
+BOC,Ran kekulu,Children,8,1400,Yes,1.5,Yes,Yes,21
+BOC,Ran kekulu,Children,10,50000,Yes,1.5,Yes,Yes,750
+BOC,Ran kekulu,Children,2,22000,Yes,1.5,Yes,Yes,330
+BOC,Ran kekulu,Children,11,3200,Yes,1.5,Yes,Yes,48
+BOC,Ran kekulu,Children,15,8400,Yes,1.5,Yes,Yes,126
+BOC,Ran kekulu,Children,5,7200,Yes,1.5,Yes,Yes,108
+NDB,Shilpa,Children,2,500,Yes,3,Yes,No,15
+NDB,Shilpa,Children,1,1200,Yes,3,Yes,No,36
+NDB,Shilpa,Children,3,700,Yes,3,Yes,No,21
+NDB,Shilpa,Children,5,2500,Yes,3,Yes,No,75
+NDB,Shilpa,Children,7,900,Yes,3,Yes,No,18
+NDB,Shilpa,Children,17,65000,Yes,3,Yes,No,1950
+NDB,Shilpa,Children,14,3400,Yes,3,Yes,No,112
+NDB,Shilpa,Children,3,2100,Yes,3,Yes,No,63
+NDB,Shilpa,Children,12,43000,Yes,3,Yes,No,1290
+NDB,Shilpa,Children,11,3800,Yes,3,Yes,No,108
+NDB,Shilpa,Children,5,1100,Yes,3,Yes,No,33
+NDB,Shilpa,Children,18,5000,Yes,3,Yes,No,150
+NDB,Shilpa,Children,4,9000,Yes,3,Yes,No,270
+NDB,Shilpa,Children,13,10000,Yes,3,Yes,No,300
+Peoples Bank,Yes,Youth,22,2000,No,3.5,No,Yes,70
+Peoples Bank,Yes,Youth,18,4000,No,3.5,No,Yes,140
+Peoples Bank,Yes,Youth,45,10000,No,3.5,No,Yes,350
+Peoples Bank,Yes,Youth,23,3400,No,3.5,No,Yes,119
+Peoples Bank,Yes,Youth,50,54000,No,3.5,No,Yes,1890
+Peoples Bank,Yes,Youth,34,4500,No,3.5,No,Yes,157.5
+Peoples Bank,Yes,Youth,45,6700,No,3.5,No,Yes,234.5
+Peoples Bank,Yes,Youth,24,2500,No,3.5,No,Yes,87.5
+Peoples Bank,Yes,Youth,36,9000,No,3.5,No,Yes,315
+Peoples Bank,Yes,Youth,43,12000,No,3.5,No,Yes,420
+Peoples Bank,Yes,Youth,19,34000,No,3.5,No,Yes,1190
+Peoples Bank,Yes,Youth,20,88000,No,3.5,No,Yes,3080
+Peoples Bank,Yes,Youth,44,45000,No,3.5,No,Yes,1575
+Peoples Bank,Yes,Youth,32,67000,No,3.5,No,Yes,2345
+Peoples Bank,Yes,Youth,47,8200,No,3.5,No,Yes,287
+Commercial Bank,Vibe,Youth,18,1000,No,3,Yes,Yes,30
+Commercial Bank,Vibe,Youth,34,2400,No,3,Yes,Yes,72
+Commercial Bank,Vibe,Youth,23,1500,No,3,Yes,Yes,45
+Commercial Bank,Vibe,Youth,26,4200,No,3,Yes,Yes,126
+Commercial Bank,Vibe,Youth,33,5600,No,3,Yes,Yes,168
+Commercial Bank,Vibe,Youth,30,8700,No,3,Yes,Yes,261
+Commercial Bank,Vibe,Youth,25,7500,No,3,Yes,Yes,225
+Commercial Bank,Vibe,Youth,31,12000,No,3,Yes,Yes,360
+Commercial Bank,Vibe,Youth,20,24500,No,3,Yes,Yes,735
+Commercial Bank,Vibe,Youth,28,45000,No,3,Yes,Yes,1350
+Commercial Bank,Vibe,Youth,35,56000,No,3,Yes,Yes,1680
+Commercial Bank,Vibe,Youth,21,33000,No,3,Yes,Yes,990
+Commercial Bank,Vibe,Youth,29,4600,No,3,Yes,Yes,138
+Commercial Bank,Vibe,Youth,25,2800,No,3,Yes,Yes,84
+Commercial Bank,Vibe,Youth,22,3800,No,3,Yes,Yes,114
+BOC,18+,Youth,18,1200,No,3.5,Yes,Yes,42
+BOC,18+,Youth,22,4200,No,3.5,Yes,Yes,147
+BOC,18+,Youth,24,6700,No,3.5,Yes,Yes,234.5
+BOC,18+,Youth,19,13000,No,3.5,Yes,Yes,455
+BOC,18+,Youth,25,25000,No,3.5,Yes,Yes,875
+BOC,18+,Youth,34,18000,No,3.5,Yes,Yes,630
+BOC,18+,Youth,29,5300,No,3.5,Yes,Yes,185.5
+BOC,18+,Youth,21,2700,No,3.5,Yes,Yes,94.5
+BOC,18+,Youth,26,8400,No,3.5,Yes,Yes,294
+BOC,18+,Youth,30,3000,No,3.5,Yes,Yes,105
+BOC,18+,Youth,33,4100,No,3.5,Yes,Yes,143.5
+BOC,18+,Youth,27,1500,No,3.5,Yes,Yes,52.5
+BOC,18+,Youth,31,74000,No,3.5,Yes,Yes,2590
+BOC,18+,Youth,32,50000,No,3.5,Yes,Yes,1750
+BOC,18+,Youth,23,90000,No,3.5,Yes,Yes,3150
+NDB,Zee,Youth,18,2500,Yes,3,Yes,Yes,75
+NDB,Zee,Youth,28,3200,Yes,3,Yes,Yes,96
+NDB,Zee,Youth,24,2800,Yes,3,Yes,Yes,84
+NDB,Zee,Youth,19,4500,Yes,3,Yes,Yes,135
+NDB,Zee,Youth,25,5600,Yes,3,Yes,Yes,168
+NDB,Zee,Youth,27,10000,Yes,3,Yes,Yes,300
+NDB,Zee,Youth,22,14000,Yes,3,Yes,Yes,420
+NDB,Zee,Youth,26,50000,Yes,3,Yes,Yes,1500
+NDB,Zee,Youth,21,34000,Yes,3,Yes,Yes,1020
+NDB,Zee,Youth,20,7800,Yes,3,Yes,Yes,234
+NDB,Zee,Youth,24,4300,Yes,3,Yes,Yes,129
+NDB,Zee,Youth,23,3900,Yes,3,Yes,Yes,117
+NDB,Zee,Youth,25,6500,Yes,3,Yes,Yes,195
+NDB,Zee,Youth,19,40000,Yes,3,Yes,Yes,1200
+NDB,Zee,Youth,27,8400,Yes,3,Yes,Yes,252
+Sampath Bank,X-Set,Youth,13,500,No,2,No,Yes,10
+Sampath Bank,X-Set,Youth,15,600,No,2,No,Yes,12
+Sampath Bank,X-Set,Youth,16,1000,No,2,No,Yes,20
+Sampath Bank,X-Set,Youth,19,800,No,2,No,Yes,16
+Sampath Bank,X-Set,Youth,17,2300,No,2,No,Yes,46
+Sampath Bank,X-Set,Youth,14,6500,No,2,No,Yes,130
+Sampath Bank,X-Set,Youth,18,4300,No,2,No,Yes,86
+Sampath Bank,X-Set,Youth,12,15000,No,2,No,Yes,300
+Sampath Bank,X-Set,Youth,15,45000,No,2,No,Yes,900
+Sampath Bank,X-Set,Youth,17,2800,No,2,No,Yes,56
+Sampath Bank,X-Set,Youth,16,7200,No,2,No,Yes,144
+Sampath Bank,X-Set,Youth,19,5500,No,2,No,Yes,110
+Sampath Bank,X-Set,Youth,18,3000,No,2,No,Yes,60
+Sampath Bank,X-Set,Youth,14,6200,No,2,No,Yes,124
+Sampath Bank,X-Set,Youth,15,12000,No,2,No,Yes,240
+Peoples Bank,Vanitha Vasana,Women,18,1000,No,3.5,Yes,Yes,35
+Peoples Bank,Vanitha Vasana,Women,20,1500,No,3.5,Yes,Yes,52.5
+Peoples Bank,Vanitha Vasana,Women,24,1800,No,3.5,Yes,Yes,63
+Peoples Bank,Vanitha Vasana,Women,35,2400,No,3.5,Yes,Yes,84
+Peoples Bank,Vanitha Vasana,Women,26,3600,No,3.5,Yes,Yes,126
+Peoples Bank,Vanitha Vasana,Women,34,7500,No,3.5,Yes,Yes,262.5
+Peoples Bank,Vanitha Vasana,Women,19,4000,No,3.5,Yes,Yes,140
+Peoples Bank,Vanitha Vasana,Women,40,5000,No,3.5,Yes,Yes,175
+Peoples Bank,Vanitha Vasana,Women,38,10000,No,3.5,Yes,Yes,350
+Peoples Bank,Vanitha Vasana,Women,24,8400,No,3.5,Yes,Yes,294
+Peoples Bank,Vanitha Vasana,Women,21,25000,No,3.5,Yes,Yes,875
+Peoples Bank,Vanitha Vasana,Women,35,4300,No,3.5,Yes,Yes,150.5
+Peoples Bank,Vanitha Vasana,Women,28,3000,No,3.5,Yes,Yes,105
+Peoples Bank,Vanitha Vasana,Women,31,6500,No,3.5,Yes,Yes,227.5
+Peoples Bank,Vanitha Vasana,Women,29,12000,No,3.5,Yes,Yes,420
+Peoples Bank,Vanitha Vasana,Women,25,2000,No,3.5,Yes,Yes,70
+Sampath Bank,Ladies 1st,Women,18,1000,No,2.5,No,No,25
+Sampath Bank,Ladies 1st,Women,24,5000,No,2.5,No,No,125
+Sampath Bank,Ladies 1st,Women,35,1400,No,2.5,No,No,35
+Sampath Bank,Ladies 1st,Women,23,3400,No,2.5,No,No,85
+Sampath Bank,Ladies 1st,Women,34,7200,No,2.5,No,No,180
+Sampath Bank,Ladies 1st,Women,22,10000,No,2.5,No,No,250
+Sampath Bank,Ladies 1st,Women,19,15000,No,2.5,No,No,375
+Sampath Bank,Ladies 1st,Women,28,20000,No,2.5,No,No,500
+Sampath Bank,Ladies 1st,Women,32,2500,No,2.5,No,No,62.5
+Sampath Bank,Ladies 1st,Women,30,4200,No,2.5,No,No,105
+Sampath Bank,Ladies 1st,Women,20,7800,No,2.5,No,No,195
+Sampath Bank,Ladies 1st,Women,38,3000,No,2.5,No,No,75
+Sampath Bank,Ladies 1st,Women,33,24000,No,2.5,No,No,600
+Sampath Bank,Ladies 1st,Women,26,50000,No,2.5,No,No,1250
+Sampath Bank,Ladies 1st,Women,29,8000,No,2.5,No,No,200
+Commercial Bank,Anagi,Women,18,1000,Yes,2.5,Yes,Yes,25
+Commercial Bank,Anagi,Women,22,4000,Yes,2.5,Yes,Yes,100
+Commercial Bank,Anagi,Women,35,3200,Yes,2.5,Yes,Yes,80
+Commercial Bank,Anagi,Women,38,5600,Yes,2.5,Yes,Yes,140
+Commercial Bank,Anagi,Women,40,8500,Yes,2.5,Yes,Yes,212.5
+Commercial Bank,Anagi,Women,21,25000,Yes,2.5,Yes,Yes,625
+Commercial Bank,Anagi,Women,33,6200,Yes,2.5,Yes,Yes,155
+Commercial Bank,Anagi,Women,30,10000,Yes,2.5,Yes,Yes,250
+Commercial Bank,Anagi,Women,20,9600,Yes,2.5,Yes,Yes,240
+Commercial Bank,Anagi,Women,34,50000,Yes,2.5,Yes,Yes,1250
+Commercial Bank,Anagi,Women,25,2000,Yes,2.5,Yes,Yes,50
+Commercial Bank,Anagi,Women,28,30000,Yes,2.5,Yes,Yes,750
+Peoples Bank,Parinatha,senior citizens,55,500,No,5,Yes,Yes,25
+Peoples Bank,Parinatha,senior citizens,60,1000,No,5,Yes,Yes,50
+Peoples Bank,Parinatha,senior citizens,58,4000,No,5,Yes,Yes,200
+Peoples Bank,Parinatha,senior citizens,76,2400,No,5,Yes,Yes,120
+Peoples Bank,Parinatha,senior citizens,87,5600,No,5,Yes,Yes,280
+Peoples Bank,Parinatha,senior citizens,65,7300,No,5,Yes,Yes,365
+Peoples Bank,Parinatha,senior citizens,90,8200,No,5,Yes,Yes,410
+Peoples Bank,Parinatha,senior citizens,56,10000,No,5,Yes,Yes,500
+Peoples Bank,Parinatha,senior citizens,64,12000,No,5,Yes,Yes,600
+Peoples Bank,Parinatha,senior citizens,75,40000,No,5,Yes,Yes,2000
+Peoples Bank,Parinatha,senior citizens,68,50000,No,5,Yes,Yes,2500
+Peoples Bank,Parinatha,senior citizens,86,3400,No,5,Yes,Yes,170
+Peoples Bank,Parinatha,senior citizens,72,800,No,5,Yes,Yes,40
+Peoples Bank,Parinatha,senior citizens,60,9000,No,5,Yes,Yes,450
+NDB,Achara,senior citizens,55,200,No,4,No,Yes,8
+NDB,Achara,senior citizens,68,400,No,4,No,Yes,16
+NDB,Achara,senior citizens,58,500,No,4,No,Yes,20
+NDB,Achara,senior citizens,70,800,No,4,No,Yes,32
+NDB,Achara,senior citizens,80,1000,No,4,No,Yes,40
+NDB,Achara,senior citizens,75,1600,No,4,No,Yes,64
+NDB,Achara,senior citizens,82,2500,No,4,No,Yes,100
+NDB,Achara,senior citizens,61,3400,No,4,No,Yes,136
+NDB,Achara,senior citizens,59,4000,No,4,No,Yes,160
+NDB,Achara,senior citizens,64,5800,No,4,No,Yes,232
+NDB,Achara,senior citizens,73,7800,No,4,No,Yes,312
+NDB,Achara,senior citizens,85,12000,No,4,No,Yes,480
+NDB,Achara,senior citizens,71,20000,No,4,No,Yes,800
+Commercial Bank,Udara,senior citizens,60,1000,No,3,Yes,Yes,30
+Commercial Bank,Udara,senior citizens,65,4000,No,3,Yes,Yes,120
+Commercial Bank,Udara,senior citizens,78,1500,No,3,Yes,Yes,45
+Commercial Bank,Udara,senior citizens,67,5000,No,3,Yes,Yes,150
+Commercial Bank,Udara,senior citizens,82,8200,No,3,Yes,Yes,246
+Commercial Bank,Udara,senior citizens,90,6900,No,3,Yes,Yes,207
+Commercial Bank,Udara,senior citizens,85,40000,No,3,Yes,Yes,1200
+Commercial Bank,Udara,senior citizens,70,25000,No,3,Yes,Yes,750
+Commercial Bank,Udara,senior citizens,66,3300,No,3,Yes,Yes,99
+Commercial Bank,Udara,senior citizens,80,6400,No,3,Yes,Yes,192
+Commercial Bank,Udara,senior citizens,61,30000,No,3,Yes,Yes,900
+Commercial Bank,Udara,senior citizens,74,14000,No,3,Yes,Yes,420
+Commercial Bank,Udara,senior citizens,83,28000,No,3,Yes,Yes,840
+Commercial Bank,Udara,senior citizens,88,2000,No,3,Yes,Yes,60
+Sampath Bank,Sanhida,senior citizens,55,1000,No,4,Yes,No,40
+Sampath Bank,Sanhida,senior citizens,58,1800,No,4,Yes,No,72
+Sampath Bank,Sanhida,senior citizens,72,2500,No,4,Yes,No,100
+Sampath Bank,Sanhida,senior citizens,64,4800,No,4,Yes,No,192
+Sampath Bank,Sanhida,senior citizens,85,5000,No,4,Yes,No,200
+Sampath Bank,Sanhida,senior citizens,70,7200,No,4,Yes,No,288
+Sampath Bank,Sanhida,senior citizens,60,9700,No,4,Yes,No,388
+Sampath Bank,Sanhida,senior citizens,59,18000,No,4,Yes,No,720
+Sampath Bank,Sanhida,senior citizens,80,3400,No,4,Yes,No,136
+Sampath Bank,Sanhida,senior citizens,88,30000,No,4,Yes,No,1200
+Sampath Bank,Sanhida,senior citizens,76,6000,No,4,Yes,No,240
+Sampath Bank,Sanhida,senior citizens,63,8200,No,4,Yes,No,328
+Sampath Bank,Sanhida,senior citizens,84,10000,No,4,Yes,No,400
+BOC,Senior Citizens,senior citizens,60,1000,No,4,Yes,Yes,40
+BOC,Senior Citizens,senior citizens,65,1700,No,4,Yes,Yes,68
+BOC,Senior Citizens,senior citizens,76,2600,No,4,Yes,Yes,104
+BOC,Senior Citizens,senior citizens,87,4800,No,4,Yes,Yes,192
+BOC,Senior Citizens,senior citizens,67,6000,No,4,Yes,Yes,240
+BOC,Senior Citizens,senior citizens,62,32000,No,4,Yes,Yes,1280
+BOC,Senior Citizens,senior citizens,77,10000,No,4,Yes,Yes,400
+BOC,Senior Citizens,senior citizens,89,24000,No,4,Yes,Yes,960
+BOC,Senior Citizens,senior citizens,80,7600,No,4,Yes,Yes,304
+BOC,Senior Citizens,senior citizens,70,8000,No,4,Yes,Yes,320
+BOC,Senior Citizens,senior citizens,84,3500,No,4,Yes,Yes,140
+BOC,Senior Citizens,senior citizens,72,5000,No,4,Yes,Yes,200
+BOC,Senior Citizens,senior citizens,85,12000,No,4,Yes,Yes,480
+BOC,Senior Citizens,senior citizens,66,9400,No,4,Yes,Yes,376
+BOC,Kantha Ran Ginu,Women,18,1000,No,3.5,Yes,Yes,35
+BOC,Kantha Ran Ginu,Women,20,2400,No,3.5,Yes,Yes,84
+BOC,Kantha Ran Ginu,Women,32,1400,No,3.5,Yes,Yes,49
+BOC,Kantha Ran Ginu,Women,33,3600,No,3.5,Yes,Yes,126
+BOC,Kantha Ran Ginu,Women,26,7600,No,3.5,Yes,Yes,266
+BOC,Kantha Ran Ginu,Women,36,5000,No,3.5,Yes,Yes,175
+BOC,Kantha Ran Ginu,Women,25,8000,No,3.5,Yes,Yes,280
+BOC,Kantha Ran Ginu,Women,30,20000,No,3.5,Yes,Yes,700
+BOC,Kantha Ran Ginu,Women,27,15000,No,3.5,Yes,Yes,525
+BOC,Kantha Ran Ginu,Women,31,6300,No,3.5,Yes,Yes,220.5
+BOC,Kantha Ran Ginu,Women,29,9200,No,3.5,Yes,Yes,322
+BOC,Kantha Ran Ginu,Women,38,18000,No,3.5,Yes,Yes,630
+BOC,Kantha Ran Ginu,Women,36,30000,No,3.5,Yes,Yes,1050
+BOC,Kantha Ran Ginu,Women,21,4800,No,3.5,Yes,Yes,168
